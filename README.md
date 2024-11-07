@@ -1,2 +1,2 @@
 # langchain-turorial
-langchain tutorial in action.
+langchain tutorial in Chinese
